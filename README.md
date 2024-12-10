@@ -1,6 +1,8 @@
 # Text Messenger
 
-**Text Messenger** is a messaging system consisting of two main components: **client** and **server**. The application allows secure communication between users in real time.
+**Text Messenger** is a messaging system consisting of two main components: **client** and **server**. The application allows secure communication between users in real time.  
+This repository combines both parts into a single Docker Compose project. The source code for the **client** and **server** is available separately at: [https://github.com/kperdek8/text-messenger-client](https://github.com/kperdek8/text-messenger-client) and [https://github.com/kperdek8/text-messenger-server](https://github.com/kperdek8/text-messenger-server).
+
 
 ## Requirements
 
