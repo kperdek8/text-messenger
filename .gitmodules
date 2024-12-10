@@ -1,0 +1,6 @@
+[submodule "text-messenger-client"]
+	path = text-messenger-client
+	url = https://github.com/kperdek8/text-messenger-client.git
+[submodule "text-messenger-server"]
+	path = text-messenger-server
+	url = https://github.com/kperdek8/text-messenger-server.git
